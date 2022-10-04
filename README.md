@@ -12,7 +12,9 @@ I've been coding since i started my first education as Multimediadesigner, and h
 *   🚀  I'm currently working on [a mock-design of airbnb](http://github.com/toby044/mern)
 *   🧠  I'm learning MERN
 *   🤝  I'm open to collaborating on everything that could help me improve my skillset !
-*   ⚡  I'll beat you in pingping(or so i think)### Skills 
+*   ⚡  I'll beat you in pingping(or so i think)
+
+Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -33,8 +35,7 @@ I've been coding since i started my first education as Multimediadesigner, and h
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
+Socials
                   
                   
                 <p align="left">
