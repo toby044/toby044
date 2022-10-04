@@ -6,15 +6,16 @@ Web developer and UX designer
 
 I've been coding since i started my first education as Multimediadesigner, and have been hooked ever since. I love working with javascript and the frameworks that are available, especially the MERN stack.
 
-*   🌍  I'm based in Denmark
-*   🖥️  See my portfolio at [tobio.io](http://tobio.io)
-*   ✉️  You can contact me at [tobiasnolesen@gmail.com](mailto:tobiasnolesen@gmail.com)
-*   🚀  I'm currently working on [a mock-design of airbnb](http://github.com/toby044/mern)
-*   🧠  I'm learning MERN
-*   🤝  I'm open to collaborating on everything that could help me improve my skillset !
-*   ⚡  I'll beat you in pingping(or so i think)
+* 🌍  I'm based in Denmark
+* 🖥️  See my portfolio at [tobio.io](http://tobio.io)
+* ✉️  You can contact me at [tobiasnolesen@gmail.com](mailto:tobiasnolesen@gmail.com)
+* 🚀  I'm currently working on [a mock-design of airbnb](http://github.com/toby044/mern)
+* 🧠  I'm learning MERN
+* 🤝  I'm open to collaborating on everything that could help me improve my skillset !
+* ⚡  I'll beat you in pingping(or so i think)
 
-Skills 
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -35,17 +36,7 @@ Skills
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.codepen.io/toby044" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.dev.to/toby044" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://discord.com/users/tobi#0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/toby044" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.stackoverflow.com/users/toby044" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+
+### Socials
+
+<p align="left"> <a href="https://www.codepen.io/toby044" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" width="32" height="32" /></a> <a href="https://www.dev.to/toby044" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/tobi#0902" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/toby044" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/toby044" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
