@@ -7,10 +7,8 @@ Web developer and UX designer
 I've been coding since i started my first education as Multimediadesigner, and have been hooked ever since. I love working with javascript and the frameworks that are available, especially the MERN stack.
 
 * 🌍  I'm based in Denmark
-* 🖥️  See my portfolio at [tobio.io](http://tobio.io)
 * ✉️  You can contact me at [tobiasnolesen@gmail.com](mailto:tobiasnolesen@gmail.com)
 * 🚀  I'm currently working on [a mock-design of airbnb](http://github.com/toby044/mern)
-* 🧠  I'm learning the MERN stack
 * 🤝  I'm open to collaborating on everything that could help me improve my skillset !
 * ⚡  I'll beat you in ping pong (or so i think)
 
